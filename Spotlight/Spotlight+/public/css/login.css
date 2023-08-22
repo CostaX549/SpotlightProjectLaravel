@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(15,15,15);
+}
+
+.card-header {
+    background-color: rgb(190,153,58);
+}
+
+.card-body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
